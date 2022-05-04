@@ -7,4 +7,6 @@ This is all codes for different aspects that we encounterd during ML learning .
 
 2. OpenCV
 
-3. 
+3. ArUco
+
+4.  
