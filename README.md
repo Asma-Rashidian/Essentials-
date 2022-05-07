@@ -9,6 +9,6 @@ This is all codes for different aspects that we encounterd during ML learning .
 
 3. ArUco
 
-4. Webcam Connection in python 
+4. Webcam Connection in python  >> opencv directory
 
 5. 
