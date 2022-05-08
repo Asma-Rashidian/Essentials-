@@ -7,7 +7,7 @@ This is all codes for different aspects that we encounterd during ML learning .
 
 2. OpenCV
 
-3. ArUco
+3. ArUco   >> opencv directory
 
 4. Webcam Connection in python  >> opencv directory
 
