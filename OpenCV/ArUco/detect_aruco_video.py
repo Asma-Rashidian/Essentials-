@@ -113,4 +113,5 @@ while True :
 
 vs.release()
 cv2.destroyAllWindows()
-vs.stop()
+
+print("[INFO] detection is compeletly done")
