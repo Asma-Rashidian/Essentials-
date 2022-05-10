@@ -27,6 +27,7 @@ class Magazine (Periodiacal):
         
 
 
+
 class Newspaper (Periodiacal):
     def __init__(self , title , publisher , price , period) :
         # price , title  >>> inheritance of periodiacal
