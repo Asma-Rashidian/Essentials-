@@ -1,4 +1,6 @@
-
+"""
+    *** Part 2 ***
+"""
 class Publication :
     def __init__(self , title , price ):
         self.title = title 

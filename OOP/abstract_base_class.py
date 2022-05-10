@@ -1,4 +1,5 @@
 """
+    *** Part 3 ***
     Provide a base class that define a template for other classes to inherite from 
     we want to force every shape calculat calcArea , 
     and we want to prevent the graphic shape class itself from being instantiated on its own

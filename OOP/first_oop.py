@@ -1,4 +1,5 @@
 """
+    *** Part 1***
     Object Oriented Programming Language  >>> OOP
 
         OOP Terms 
