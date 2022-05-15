@@ -24,3 +24,5 @@ This is all codes for different aspects that we encounterd during ML learning .
 8. detect_low_contrast_images >> object_detection >> opencv 
 
 9. OOP basics 
+
+10. detect_low_contrast_videos >> object_detection >> opencv
