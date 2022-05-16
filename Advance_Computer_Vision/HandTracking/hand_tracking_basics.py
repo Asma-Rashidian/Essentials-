@@ -1,8 +1,6 @@
 import cv2 
 import mediapipe as mp 
-import time
-
-from numpy import hamming     #check the frame rate 
+import time        #check the frame rate 
 
 
 cap = cv2.VideoCapture(0)
